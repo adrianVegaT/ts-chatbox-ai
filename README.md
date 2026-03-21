@@ -101,6 +101,12 @@ proxy.ts                        Session refresh on every request
 .env.example                    Environment variables template
 ```
 
+## Live demo
+
+[https://ts-chatbox-ai.vercel.app](https://ts-chatbox-ai.vercel.app)
+
+> Demo accounts are limited to 2000 tokens. Create an account to try it out.
+
 ## Context
 
 Built across Weeks 2 and 3 of a 12-month roadmap transitioning from Laravel/PHP
